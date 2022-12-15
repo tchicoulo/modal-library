@@ -43,7 +43,7 @@ const ModalDialog = (props) => {
 
             <div
               onClick={closeModal}
-              className="fa-solid fa-circle-xmark btn"
+              className="fa-solid fa-circle-xmark modal-btn"
               style={styles.crossIcon}
             >
               X
